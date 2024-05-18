@@ -13,11 +13,11 @@ Import your [todo.txt](http://todotxt.org/) tasks into the [tasks.org](https://g
 The output will have:
 
 ```
-Tasks
+Tags
 ---
 {tag JSON},
 ...
-Tags
+Tasks
 ---
 {task JSON},
 ...
